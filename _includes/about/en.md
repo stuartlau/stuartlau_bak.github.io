@@ -13,4 +13,3 @@
         <a href="www.kuaishou.com/"><i>Kuaishou</i></a>,
             currently I'm working as a back-end software development engineer mainly focus on Social Networking Service, Instant Messaging, etc.</p>
 </div>
-You can find more about me at  https://elsef.com
