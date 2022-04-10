@@ -59,10 +59,10 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: stuart_lau
+#disqus_username: stuart_lau
 
 # Netease settings
-netease_comment: false
+#netease_comment: false
 
 # Gitalk
 #gitalk:
