@@ -67,8 +67,8 @@ netease_comment: false
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: a54fb41dd4100d0274ce                            #生成的clientID
-  clientSecret: da8ee405ccb0eb06d1ca0e8df1eedda1690c8db6    #生成的clientSecret
+  clientID: 80979b881c6e6fc0716a                            #生成的clientID
+  clientSecret: 93a5f765895f6e7d6c35338eb08c286306c379a0    #生成的clientSecret
   repo: stuartlau.github.io    #仓库名称
   owner: stuartlau    #github用户名
   admin: stuartlau
