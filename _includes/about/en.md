@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <div class="en post-container">
-    <p>Hi, I'm <strong>Stuart Lau</strong>. I
+    <p>Hi there, I'm <strong>Stuart Lau</strong>. I
         got my master's degree in 2012
         from <a href="https://english.bupt.edu.cn/"><i>Beijing University of Posts and
             Telecommunications</i></a>, State Key Laboratory of Networking and Switching
