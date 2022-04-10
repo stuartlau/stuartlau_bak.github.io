@@ -59,20 +59,20 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: stuart_lau
+#disqus_username: false
 
 # Netease settings
 #netease_comment: false
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 80979b881c6e6fc0716a                            #生成的clientID
-  clientSecret: 93a5f765895f6e7d6c35338eb08c286306c379a0    #生成的clientSecret
-  repo: stuartlau.github.io    #仓库名称
-  owner: stuartlau    #github用户名
-  admin: stuartlau
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 80979b881c6e6fc0716a                            #生成的clientID
+#  clientSecret: 93a5f765895f6e7d6c35338eb08c286306c379a0    #生成的clientSecret
+#  repo: stuartlau.github.io    #仓库名称
+#  owner: stuartlau    #github用户名
+#  admin: stuartlau
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Analytics settings
 # Baidu Analytics 
