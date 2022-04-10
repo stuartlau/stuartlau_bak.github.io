@@ -10,5 +10,6 @@
         <a href="https://www.mi.com/en/index.html"><i>Xiaomi</i></a>,
         <a href="https://www.amazon.com/"><i>Amazon</i></a> and
         <a href="www.kuaishou.com/"><i>Kuaishou</i></a>,
-            currently I'm working as a back-end software development engineer mainly focus on Social Networking Service, Instant Messaging, etc.</p>
+            currently I'm working as a Tech Lead mainly focus on Social Networking Service
+            , Instant Messaging, etc.</p>
 </div>
