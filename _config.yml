@@ -5,7 +5,7 @@ header-img: img/about-bg-walle.jpg
 email: surelau@gmail.com
 description: "这里是 @S.L 的个人博客，与你一起发现更大的世界。"
 keyword: "S.L, StuartLau, StuartLau的博客, S.L Blog, 博客, 个人网站, 互联网"
-url: "https://elsef.com"              # your host, for absolute URL
+url: "https://stuartlau.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
