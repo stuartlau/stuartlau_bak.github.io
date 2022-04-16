@@ -13,7 +13,7 @@ tags:
 [Font Awesome](https://fontawesome.com) is a website provides free icons.
 > Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
 
-![font-awesome-collection](https://elsef.com/img/in-post/font-awesome-collection.jpg)
+![font-awesome-collection](https://stuartlau.github.io/img/in-post/font-awesome-collection.jpg)
 
 The latest version is 5.3 and it has 1,341 Free Icons and 2,637 Pro Icons for business usage.
  
@@ -39,7 +39,7 @@ following to my footer:
     </span>
     
 Now let's see how it looks in my site
-![footer-icons](https://elsef.com/img/in-post/footer-icons.jpg)
+![footer-icons]({{ site.url }}/img/in-post/footer-icons.jpg)
         
 # Reference
 - https://fontawesome.com
