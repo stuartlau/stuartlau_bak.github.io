@@ -86,7 +86,7 @@ ga_domain: elsef.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Read, Think and Share <br> 你还可以扫码关注我的公众号，会定期分享一些外网英文科技文章."
+sidebar-about-description: "「Read, Think and Share」 <br> 您还可以扫码关注我的公众号，专注于分享高质量的英文科技文章。"
 sidebar-avatar: /img/elsef-qrcode.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
