@@ -2,8 +2,8 @@
     <p>
        刘硕，现任快手基础平台IM服务端技术负责人。2012年于北京邮电大学网络与交换技术国家重点实验室获得工学硕士学位，曾就职亚马逊、小米、ZDNS
        等公司，在互联网、社交、短视频、游戏、物流、域名&DNS、网络基础设施等领域有10年工作经验，
-       拥有<a href="https://stuartlau.github.io/archive/?tag=Patent"><strong>50余授权专利</strong
-       ></a>（总计
+       拥有50余国内专利，2个美国专利，2个欧洲专利，1个日本专利和1个俄罗斯专利
+       （总计
        <a href="https://patents.google.com/?inventor=%E5%88%98%E7%A1%95&assignee
               =%E5%8C%97%E4%BA%AC%E8%BE%BE%E4%BD%B3%E4%BA%92%E8%81%94%E4%BF%A1%E6%81%AF%E6%8A%80
               %E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8,%E5%8C%97%E4%BA%AC%E5%B0%8F%E7%B1%B3
