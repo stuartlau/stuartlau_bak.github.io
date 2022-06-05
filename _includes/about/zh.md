@@ -13,8 +13,9 @@
     <hr>
     <h5>联系我</h5>
     <p>
-        如果您对我的工作感兴趣，欢迎加微信「<strong>shuoleo</strong>」与我联系。您还可以扫码关注我维护的公众号「<strong>elsef</strong>」，专注于分享高质量的英文科技文章。
-        </p>
+     如果您对我的工作感兴趣，欢迎加微信「<strong>shuoleo</strong>」与我联系，同时您还可以关注我维护的一个专注于分享英文科技类文章的公众号「<strong>elsef
+     </strong>」。
+    </p>    
     <hr>
     <h5>我的履历</h5>
     <li>
