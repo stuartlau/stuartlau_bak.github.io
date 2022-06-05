@@ -1,9 +1,10 @@
 <div class="zh post-container">
     <h5>关于我</h5>
     <p>
-       Hi，我是刘硕，现任快手主站技术部后端基础平台的IM中台服务端技术负责人，从业互联网行业10年，并具有多年管理经验。
-       2012年于北京邮电大学网络与交换技术国家重点实验室获得工学硕士学位，先后在网络基础服务创业公司、移动科技顶级独角兽公司、曾市值全球最高的美国互联网公司和短视频领域头部公司工作，
-       在互联网社交、短视频、直播、游戏、物流、域名&DNS、网络基础设施等领域拥有授权专利70余项，并在中国、美国、欧洲、日本和俄罗斯被授权。
+       Hi，我是<strong>刘硕</strong>，<strong>现任快手主站技术部IM中台服务端技术负责人</strong>。
+       2012年于<strong>北京邮电大学网络与交换技术国家重点实验室</strong>获得工学硕士学位后，先后在网络基础服务创业公司、移动科技顶级独角兽公司、曾市值全球最高的美国互联网公司和短视频领域头部公司工作，
+       在互联网行业沉淀10年并具有多年管理经验，同时在互联网社交、短视频、直播、游戏、物流、域名&DNS、网络基础设施等领域拥有<strong>授权专利70余项</strong
+       >，授权国家包括中国、美国、欧洲、日本和俄罗斯。
     </p>
     <p>
      本人在大型分布式服务架构设计、大数据处理以及高性能、高并发、高可用服务研发等方面具有丰富的经验，对微服务架构、领域驱动设计、敏捷开发等有较为深刻的认知和应用，多次带团队完成公司级重要项目的落地。
@@ -15,7 +16,7 @@
         如果您对我的工作感兴趣，欢迎加微信「<strong>shuoleo</strong>」与我联系。您还可以扫码关注我维护的公众号「<strong>elsef</strong>」，专注于分享高质量的英文科技文章。
         </p>
     <hr>
-    <h5>工作履历</h5>
+    <h5>我的履历</h5>
     <li>
     2018年，加入<strong>快手</strong>，带领团队从0搭建快手IM中台横向支撑公司所有业务的IM需求，并持续打造了包括社交、电商、办公、游戏和付费咨询等场景在内的IM+闭环能力，支撑公司30
     +业务和产品，包括：快手&快手极速版、快手自研办公通信软件Kim、快手电商小店客服、商业化客服、海外Kwai和其他孵化生态产品（A站、水母APP、三方游戏）等，支持以Android、iOS、H5、小程序、Electron等方式接入。
@@ -39,19 +40,16 @@
     <hr>
     <h5 id="conferences">EI论文</h5>
 
-    <ul>
         <li><strong>Shuo Liu</strong>, Qiaoyan Wen, <a
                 href="https://ieeexplore.ieee.org/abstract/document/6155893/">Distributed cluster
             authentication model based on CAS</a>
             <em>2011 4th IEEE International Conference on Broadband Network and Multimedia
                 Technology(<strong>IEEE</strong>)</em>, 2012
         </li>
-    </ul>
     <hr>
 
     <h5 id="patents">专利</h5>
 
-    <ul>
         <li>
             <a href="https://stuartlau.github.io/archive/?tag=Patent">已授权</a>
         </li>
@@ -60,16 +58,13 @@
                 申请中180+
             </a>
         </li>
-    </ul>
     <hr>
 
     <h5 id="contributions">开源贡献</h5>
 
-    <ul>
         <li><a href="https://www.opendnssec.org/2013/06/opendnssec-1-4-1/">OpenDNSSEC 1.4.1
             Bugfixes</a>
         </li>
-    </ul>
     <hr>
         
     
