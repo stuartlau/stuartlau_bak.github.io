@@ -41,10 +41,10 @@
     </li>
     <li>
     2012年，加入<a href="https://www.zdns.cn/">ZDNS</a>，作为创始团队的核心工程师从0到1
-    参与研发了中国唯一商用顶级域名注册局云服务平台<a href="https://www.zdns.cn/tldcloud.html">TLD Cloud</a>，
-    域名承载能力排名世界注册局机构<a href="https://ntldstats.com/backend">第4</a>。
-    历经2年多完成平台研发、测试并成功获得
-    互联网名称与数字地址分配机构<a href="https://www.icann.org/">ICANN</a>的技术和运营能力验收，并陆续将20+新顶级域（如.top/.wang
+    参与研发了中国唯一商用顶级域名注册局云服务平台<a href="https://www.zdns.cn/tldcloud.html">TLD Cloud</a>
+    （该云平台域名承载能力排名世界注册局机构<a href="https://ntldstats.com/backend">第4</a>）。
+    历经2年多完成平台研发、测试并成功完成互联网名称与数字地址分配机构<a href="https://www.icann.org/">ICANN</a>的技术和运营能力验收流程，并陆续将20
+    +新顶级域（如.top/.wang
     /.ren
     /.中信）接入根域名服务器，为数十个国内外注册商提供域名注册、DNS
     解析和数据托管服务，支撑数百万一级域名的互联网全生命周期。
