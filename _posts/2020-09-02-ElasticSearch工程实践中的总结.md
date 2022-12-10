@@ -73,7 +73,7 @@ DisMaxQuery是一个接受多个查询的查询，并返回与任何查询子句
         "_score" : 0.77041256,
         "_source" : {
           "title" : "Keeping pets healthy",
-          "body" : "My quick brown fox eats rabbits on a regular basis."
+          "body" : "Granted quick brown fox eats rabbits on a regular basis."
         }
       }
     ]
