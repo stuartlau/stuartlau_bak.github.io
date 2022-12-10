@@ -161,5 +161,5 @@ DemoService demo = (DemoService) ctx.getBean("demo");
 - 《Spring 3.x——企业应用开发实战》，陈雄华、林开雄著
 - [Spring系列之beanFactory与ApplicationContext](https://www.cnblogs.com/xiaoxi/p/5846416.html)
 
-> 本文首次发布于 [S.L's Blog](http://elsef.com), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

@@ -942,5 +942,5 @@ print('%f' % ((t2-t1)/N))     # f2: 0.001346
 - [http://gouthamanbalaraman.com/blog/numpy-vs-pandas-comparison.html](http://gouthamanbalaraman.com/blog/numpy-vs-pandas-comparison.html)
 
 
-> 本文首次发布于 [S.L's Blog](http://elsef.com), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

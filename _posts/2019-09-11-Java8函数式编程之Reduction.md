@@ -646,5 +646,5 @@ public static <T> Collector<T, ?, Double>
 - https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html#Reduction
 - https://mohammadrasoolshaik.wordpress.com/2017/03/21/java-8-streams-collect-vs-reduce/
 
-> 本文首次发布于 [S.L's Blog](http://elsef.com), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 > 转载请保留原文链接.

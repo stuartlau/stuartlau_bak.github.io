@@ -42,4 +42,4 @@ specified time range. Bellow is the diagram to show how multiple-level limiters 
 You can see the ancestor's counter is kicked off by the preceding limiter when its **Max** is 
 surpassed within its **Period**.
 
-> 本文首次发布于 [S.L's Blog](http://elsef.com), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.
+> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.

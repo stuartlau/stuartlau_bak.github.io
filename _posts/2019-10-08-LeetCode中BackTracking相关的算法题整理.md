@@ -228,5 +228,5 @@ private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] 
 ### References
 - https://zhuanlan.zhihu.com/p/30339183
 
-> 本文首次发布于 [S.L's Blog](http://elsef.com), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

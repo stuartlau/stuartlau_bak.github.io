@@ -547,5 +547,5 @@ ES中经常使用到的聚合结果集可以被缓存起来，以便更快速的
 - [ES之五：ElasticSearch聚合](https://www.cnblogs.com/duanxz/p/6528161.html)
 
 
-> 本文首次发布于 [S.L's Blog](http://elsef.com), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.
