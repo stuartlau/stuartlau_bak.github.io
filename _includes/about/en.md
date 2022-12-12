@@ -1,6 +1,6 @@
 
 <div class="en post-container">
-    <p>Hi there, I'm <strong>Stuart Lau</strong>. I
+    <p>Hey there, I'm <strong>Stuart Lau</strong>. I
         got my master's degree in 2012
         from <a href="https://www.bupt.edu.cn/"><i>Beijing University of Posts and
             Telecommunications</i></a>, State Key Laboratory of Networking and Switching
@@ -12,6 +12,7 @@
         <a href="https://www.kuaishou.com/"><i>Kuaishou</i></a>,
             currently I'm working as a Tech Lead mainly focus on Social Networking Service
             , Instant Messaging, etc.</p>
+    <hr>
 
     <h2 id="experience">Experience</h2>
 
