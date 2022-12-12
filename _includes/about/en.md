@@ -1,21 +1,25 @@
 
 <div class="en post-container">
     <p>
-    Hei, I'm Stuart Lau, Lead of Kuaishou Instant Messaging team，our responsibility is to provide
-     platforms, services and solutions for all Kuaishou business regarding messaging, such as 
-     Social Networking, Instant Messaging, Customer Service, ect. In 2012, I got master’s degree 
-     in <a href="https://www.bupt.edu.cn/"><i>Beijing University of Posts and Telecommunications</i></a>,  
-     State Key Laboratory of Networking and Switching Technology, after that I have worked at 
+    Hei, I'm Stuart Lau, Lead of <a href="https://www.kuaishou.com/"><i>Kuaishou</i></a>, 
+    Instant Messaging team, our responsibility is to provide
+    platforms, services and solutions for all Kuaishou business regarding messaging, such as 
+    Social Networking, Instant Messaging, Customer Service, ect.
+    </p>
+    <p> 
+     In 2012, I got master’s degree in State Key Laboratory of Networking and Switching Technology,
+     <a href="https://www.bupt.edu.cn/"><i>Beijing University of Posts and Telecommunications</i></a>,  
+     , after that I have worked at 
      <a href="https://www.zdns.cn/"><i>ZDNS</i></a>,
              <a href="https://www.mi.com/index.html"><i>Xiaomi</i></a>,
              <a href="https://www.amazon.com/"><i>Amazon</i></a>.
-    With more than 10 years of experience both in software engineering and management, I also have
+    </p>
+    <p>
+    With more than 10 years of experience in software engineering and 5 years of management, I also have
      obtained <a href="https://stuartlau.github.io/archive/?tag=Patent">80+</a> Patents in China, US, Europe, Russia and Japan, all of which
-      are granted in fields like Social Networking, IM, Short Video, Gaming, Live, Domain, DNS
+      are granted in fields like IM, Social Networking, Live, Short Video, Gaming, Domain, DNS
       , Algorithms etc.
     </p>
-
-    <h2 id="publications">Publications</h2>
 
     <h4 id="conferences">Conferences</h4>
 
@@ -32,7 +36,7 @@
 
     <ul>
         <li>
-            <a href="https://stuartlau.github.io/archive/?tag=Patent">80+</a>
+            <a href="https://liushuo.me/archive/?tag=Patent">80+</a>
         </li>
     </ul>
 
