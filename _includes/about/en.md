@@ -4,11 +4,11 @@
     Hei, I'm Stuart Lau, Lead of <a href="https://www.kuaishou.com/"><i>Kuaishou</i></a>, 
     Instant Messaging team, our responsibility is to provide
     platforms, services and solutions for all Kuaishou business regarding messaging, such as 
-    Social Networking, Instant Messaging, Customer Service, ect.
+    Social Networking, Instant Messaging, Customer Service, etc.
     </p>
     <p> 
      In 2012, I got master’s degree in State Key Laboratory of Networking and Switching Technology,
-     <a href="https://www.bupt.edu.cn/"><i>Beijing University of Posts and Telecommunications</i></a>,  
+     <a href="https://www.bupt.edu.cn/"><i>Beijing University of Posts and Telecommunications</i></a>  
      , after that I have worked at 
      <a href="https://www.zdns.cn/"><i>ZDNS</i></a>,
              <a href="https://www.mi.com/index.html"><i>Xiaomi</i></a>,
@@ -16,9 +16,10 @@
     </p>
     <p>
     With more than 10 years of experience in software engineering and 5 years of management, I also have
-     obtained <a href="https://stuartlau.github.io/archive/?tag=Patent">80+</a> Patents in China, US, Europe, Russia and Japan, all of which
+     obtained <a href="https://stuartlau.github.io/archive/?tag=Patent">80+ patents</a> in China
+     , US, Europe, Russia and Japan, all of which
       are granted in fields like IM, Social Networking, Live, Short Video, Gaming, Domain, DNS
-      , Algorithms etc.
+      , Algorithms, etc.
     </p>
 
     <h4 id="conferences">Conferences</h4>
@@ -40,7 +41,7 @@
         </li>
     </ul>
 
-    <h4 id="contributions">Community Contributions</h4>
+    <h4 id="contributions">Open Source Contributions</h4>
 
     <ul>
         <li><a href="https://www.opendnssec.org/2013/06/opendnssec-1-4-1/">OpenDNSSEC 1.4.1
