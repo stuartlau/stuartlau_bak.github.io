@@ -7,8 +7,9 @@
     Social Networking, Instant Messaging, Customer Service, etc.
     </p>
     <p> 
-     In 2012, I got master’s degree in State Key Laboratory of Networking and Switching Technology,
-     <a href="https://www.bupt.edu.cn/"><i>Beijing University of Posts and Telecommunications</i></a>  
+     In 2012, I got master’s degree in <a href="https://sklnst.bupt.edu.cn/">State Key
+      Laboratory of Networking and Switching Technology</a>,
+     <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>  
      , after that I have worked at 
      <a href="https://www.zdns.cn/"><i>ZDNS</i></a>,
              <a href="https://www.mi.com/index.html"><i>Xiaomi</i></a>,

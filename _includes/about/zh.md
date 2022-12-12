@@ -1,8 +1,9 @@
 <div class="zh post-container">
-    <h5>关于我</h5>
     <p>
        Hey，我是<strong>刘硕</strong>，<strong>现任<a href="https://www.kuaishou.com">快手</a>IM中台服务端技术负责人</strong>，为快手各类产品提供IM、客服类整体解决方案。
-       2012年于<strong>北京邮电大学网络与交换技术国家重点实验室</strong>获得工学硕士学位后，先后在<a href="https://www.zdns.cn/">ZDNS</a>、
+       2012年于<a href="https://www.bupt.edu.cn">北京邮电大学</a>—
+       <a href="https://sklnst.bupt.edu.cn/">网络与交换技术国家重点实验室</a>获得工学硕士学位后，先后在<a href="https
+       ://www.zdns.cn/">ZDNS</a>、
        <a href="https:///www.xiaomi.com">小米</a>、<a href="https://www.amazon.com">Amazon</a>工作，
        在互联网行业沉淀10年并具有多年管理经验，同时在IM、社交、短视频、直播、游戏、物流、DNS、网络基础设施等领域拥有
        <strong><a href="https://liushuo.me/archive/?tag=Patent">80+专利授权</a></strong>
@@ -46,13 +47,12 @@
     <hr>
     <a href="https://www.zdns.cn/">ZDNS</a>
     <li>
-    2012年，加入ZDNS，作为创始团队的核心工程师从0到1
-    参与研发了中国唯一商用顶级域名注册局云服务平台<a href="https://www.zdns.cn/tldcloud.html">TLD Cloud</a>
-    （该云平台域名承载能力排名世界注册局机构<a href="https://ntldstats.com/backend">第4</a>）。
-    历经2年多完成平台研发、测试并成功完成互联网名称与数字地址分配机构<a href="https://www.icann.org/">ICANN</a>的技术和运营能力验收流程，并陆续将20
-    +新顶级域（如.top/.wang/.ren
-    /.中信）接入根域名服务器，为数十个国内外注册商提供域名注册、DNS
-    解析和数据托管服务，支撑数百万一级域名的互联网全生命周期。
+    2012年，作为创始团队的核心工程师从0研发了目前排名<a href="https://ntldstats.com/backend">世界第4</a>
+    的新顶级域名注册局云服务平台<a href="https://www.zdns.cn/tldcloud.html">TLD Cloud</a>。
+    深度参与RFC标准协议的工程化设计、服务端架构设计以及EPP/WHOIS
+    /DNS/ESCROW等顶级域名注册局需具备的核心能力的研发， 完成平台研发、测试，并获得互联网名称与数字地址分配机构
+    <a href="https://www.icann.org/">ICANN</a>的验收和授权，将20多个新顶级域（如.top/.wang /.ren /.中信）
+    接入<a href="https://www.internic.net/domain/root.zone">DNS根域名服务器</a>进行托管运营。
     </li>
     <hr>
     <h5 id="conferences">EI论文</h5>
