@@ -18,8 +18,7 @@
     With more than 10 years of experience in software engineering and 5 years of management, I also have
      obtained <a href="https://stuartlau.github.io/archive/?tag=Patent">80+ patents</a> in China
      , US, Europe, Russia and Japan, all of which
-      are granted in fields like IM, Social Networking, Live, Short Video, Gaming, Domain, DNS
-      , Algorithms, etc.
+      are granted in fields like IM, Social Networking, Live Stream, Short Video, Gaming, , DNS, Algorithms, etc.
     </p>
 
     <h4 id="conferences">Conferences</h4>
@@ -37,7 +36,7 @@
 
     <ul>
         <li>
-            <a href="https://liushuo.me/archive/?tag=Patent">80+</a>
+            <a href="https://liushuo.me/archive/?tag=Patent">80+ patents</a>
         </li>
     </ul>
 
