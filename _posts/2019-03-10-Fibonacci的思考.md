@@ -23,7 +23,7 @@ def fib(n):
 
 #### 存在问题
 先看一张图：
-![Fibonacci_in_BTree](https://elsef.com/img/in-post/Fibonacci.png)
+![Fibonacci_in_BTree](https://liushuo.me/img/in-post/Fibonacci.png)
 这张图说明了Fibonacci计算过程中的计算每一个节点时需要计算的节点的量，可知有很多重复节点的计算，如计算F(9)时需要计算F(8)和F(7），而计算F(8)时又计算了一次F(7)
 ，所以这里存在优化的空间。
 
