@@ -44,7 +44,7 @@ tags:
 ## Spring Integration Introduction
 > Spring Integration's primary goal is to provide a simple model for building enterprise integration solutions while maintaining the separation of concerns that is essential for producing maintainable, testable code.
 
-`### Brief
+### Brief
 * Enables lightweight messaging within Spring-based applications
 * Supports integration with external systems via declarative adapters(File, FTP, JMS, TCP, HTTP, JDBC, etc)
 * Provides a higher-level of abstraction over Spring's support for remoting, messaging, and scheduling
