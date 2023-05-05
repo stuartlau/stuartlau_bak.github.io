@@ -6,7 +6,7 @@
        ://www.zdns.cn/">ZDNS</a>、
        <a href="https:///www.xiaomi.com">小米</a>、<a href="https://www.amazon.com">Amazon</a>工作，
        在互联网行业沉淀10年并具有多年管理经验，同时在IM、社交、短视频、直播、游戏、物流、DNS、网络基础设施等领域拥有
-       <strong><a href="https://liushuo.me/archive/?tag=Patent">80+专利授权</a></strong>
+       <strong><a href="https://liushuo.me/archive/?tag=Patent">近100专利授权</a></strong>
        ，授权国家包括中国、美国、欧洲、日本和俄罗斯。
     </p>
     <p>
@@ -61,12 +61,7 @@
     <h5 id="patents">专利</h5>
 
         <li>
-            <a href="https://liushuo.me/archive/?tag=Patent">已授权</a>
-        </li>
-        <li>
-            <a href="https://patents.google.com/?inventor=%E5%88%98%E7%A1%95&assignee=%E8%BE%BE%E4%BD%B3%E4%BA%92%E8%81%94,%E5%8C%97%E4%BA%AC%E5%B0%8F%E7%B1%B3%E7%A7%BB%E5%8A%A8%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&type=PATENT&num=100&sort=new">
-                申请中180+
-            </a>
+            <a href="https://liushuo.me/archive/?tag=Patent">已授权近100项</a>
         </li>
     <hr>
 
