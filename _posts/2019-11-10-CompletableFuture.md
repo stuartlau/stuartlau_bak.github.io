@@ -3,7 +3,7 @@ layout:     post
 title:      "把Future扔进CompletableFuture的封装里"
 subtitle:   "CompletableFuture in Java"
 date:       2019-11-10
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -401,5 +401,5 @@ applyToEither返回值的计算结果却是要经过fn处理的。
 - [JDK CompletableFuture](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html)
 - [JDK CompletionStage](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletionStage.html)
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

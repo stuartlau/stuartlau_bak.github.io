@@ -3,7 +3,7 @@ layout:     post
 title:      "LeetCode中Hash表相关算法题整理"
 subtitle:   "Hash Usage in LeetCode"
 date:       2019-10-03
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -110,5 +110,5 @@ public class Twitter {
 ## References
 - https://www.leetcode.com
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

@@ -3,7 +3,7 @@ layout:     post
 title:      Spring Integration in Realtime Messaging
 subtitle:   Spring Integration and its usage in realtime messaging system
 date:       2018-09-15
-author:     S.L
+author:     L.S
 header-img: img/post-bg-spring-integration.png
 catalog: true
 tags:
@@ -286,4 +286,4 @@ standard way to manage them efficiently, use SI
 * [http://camel.apache.org/](http://camel.apache.org/)
 * [https://www.mulesoft.com](https://www.mulesoft.com)
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.

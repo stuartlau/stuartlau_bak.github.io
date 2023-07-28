@@ -3,7 +3,7 @@ layout:     post
 title:      "熔断限流利器Resilience4j初探"
 subtitle:   "Resilience4j Usage"
 date:       2019-10-28
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -299,5 +299,5 @@ CircuitBreakerRegistry circuitBreakerRegistry = CircuitBreakerRegistry.ofDefault
 
 
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

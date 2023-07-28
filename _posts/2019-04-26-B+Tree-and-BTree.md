@@ -3,7 +3,7 @@ layout:     post
 title:      "B+Tree和B-Tree"
 subtitle:   "B+Tree/B-Tree"
 date:       2019-04-26
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -266,5 +266,5 @@ CPU成本=1*0.2+1*0.2=0.4(读取二级索引的成本+回表聚簇索引的成�
 - https://tech.meituan.com/2014/06/30/mysql-index.html
 - https://juejin.im/post/5dfc846051882512327a63b6
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

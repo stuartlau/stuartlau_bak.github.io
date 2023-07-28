@@ -3,7 +3,7 @@ layout:     post
 title:      使用lombok的@Builder的注解的一个坑
 subtitle:   总有一个坑你要跳进去
 date:       2018-04-03
-author:     S.L
+author:     L.S
 header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:
@@ -77,4 +77,4 @@ The return type of this method will be the same as the relevant class, unless a 
 # Reference
 - https://projectlombok.org/features/Builder
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.

@@ -3,7 +3,7 @@ layout:     post
 title:      "理解Java中的Integer的实例化"
 subtitle:   "Initialization Integer in Java"
 date:       2019-11-10
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -158,5 +158,5 @@ private static class IntegerCache {
 
 
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

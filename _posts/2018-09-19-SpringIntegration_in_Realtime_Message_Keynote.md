@@ -4,7 +4,7 @@ title:      "企业模型集成EIP在实践中的应用——Spring Integration"
 subtitle:   "Slides: Spring Integration in Realtime Messaging"
 iframe:     "https://liushuo.me/spring_integration_in_realtime_messaging/"
 date:       2018-09-19
-author:     S.L
+author:     L.S
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
@@ -40,5 +40,5 @@ tags:
 [Reveal.js](http://lab.hakim.se/reveal-js)
 [free_formatter](https://www.freeformatter.com/xml-escape.html)
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.
 

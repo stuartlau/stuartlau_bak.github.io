@@ -3,7 +3,7 @@ layout:     post
 title:      "ElasticSearch工程实践中的总结"
 subtitle:   "ES in Action"
 date:       2020-09-02
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -251,5 +251,5 @@ text默认结合standard analyzer(标准解析器)对文本进行分词、倒排
 - [DisMaxQuery](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-dis-max-query.html)
 - [Elasticsearch Compound Query 复合查询详解](https://my.oschina.net/UpBoy/blog/700787)
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

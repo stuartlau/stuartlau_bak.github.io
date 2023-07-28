@@ -3,7 +3,7 @@ layout:     post
 title:      如何绑定你的独立域名到自己的GitHub Pages
 subtitle:   以域名服务商Godaddy和域名解析商dnspod为例
 date:       2018-09-18
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -186,4 +186,4 @@ f1g1ns1.dnspod.net.	100297	IN	A	182.140.167.166
 - https://help.github.com/articles/troubleshooting-custom-domains/
 - https://letsencrypt.org/
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.

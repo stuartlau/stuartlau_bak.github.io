@@ -3,7 +3,7 @@ layout:     post
 title:      "Python科学计算库之Numpy"
 subtitle:   "Numpy"
 date:       2019-06-19
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -942,5 +942,5 @@ print('%f' % ((t2-t1)/N))     # f2: 0.001346
 - [http://gouthamanbalaraman.com/blog/numpy-vs-pandas-comparison.html](http://gouthamanbalaraman.com/blog/numpy-vs-pandas-comparison.html)
 
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

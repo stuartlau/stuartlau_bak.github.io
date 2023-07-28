@@ -3,7 +3,7 @@ layout:     post
 title:      "改变HBase的Rowkey设计和scan脏数据问题"
 subtitle:   "Changing Rowkey in HBase is Not Easy"
 date:       2020-09-04
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -52,5 +52,5 @@ tags:
 ### Reference
 - [Rowkey Design](http://archive.cloudera.com/cdh5/cdh/5/hbase-0.98.6-cdh5.2.6/book/rowkey.design.html)
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

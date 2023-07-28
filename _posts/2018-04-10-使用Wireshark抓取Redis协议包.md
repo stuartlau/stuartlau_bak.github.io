@@ -3,7 +3,7 @@ layout:     post
 title:      使用Wireshark抓取Redis协议包
 subtitle:   你得做一个合格的工程师
 date:       2018-04-10
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -44,4 +44,4 @@ tcp4       0      0  192.168.124.79.50405   10.50.2.16.7003        TIME_WAIT
 - 3.状态会显示一段时间，等2MSL后才会消失
 
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.

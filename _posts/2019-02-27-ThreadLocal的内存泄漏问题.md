@@ -3,7 +3,7 @@ layout:     post
 title:      "ThreadLocal原理分析和注意事项"
 subtitle:   "Deep Dive into ThreadLocal"
 date:       2019-02-27
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -354,5 +354,5 @@ private void exit() {
 - https://www.jianshu.com/p/dde92ec37bd1
 - https://blog.csdn.net/zsfsoftware/article/details/50933151
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

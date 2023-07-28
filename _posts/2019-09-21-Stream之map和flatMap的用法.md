@@ -3,7 +3,7 @@ layout:     post
 title:      "Stream中map和flatMap差异分析"
 subtitle:   "map versus flatMap in Stream"
 date:       2019-09-21
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -60,5 +60,5 @@ Stream<String> stringStream = stream1.flatMap(stringArray -> Arrays.stream(strin
 
 `扁平化` 的结果是什么？得到一个新的Stream流对象，它的内部元素为原流对象中元素（数组）中的子元素。
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.

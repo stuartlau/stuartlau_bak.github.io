@@ -3,7 +3,7 @@ layout:     post
 title:      "Java8中Stream原理分析"
 subtitle:   "Stream Summary in Java8"
 date:       2019-09-16
-author:     S.L
+author:     L.S
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
@@ -337,5 +337,5 @@ ForkJoinPool时将会变得不可预知并且暗藏危机。
 - https://juejin.im/post/5dc5a148f265da4d4f65c191
 - https://stackoverrun.com/cn/q/10341100
 
-> 本文首次发布于 [S.L's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
 转载请保留原文链接.
