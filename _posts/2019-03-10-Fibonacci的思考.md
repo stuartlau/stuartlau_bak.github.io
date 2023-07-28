@@ -103,5 +103,5 @@ public static int fibo(int n) {
 ```
 调用时传入参数n的最小值不能小于终止判断条件的最小判断值：本例子中规定了n必须大于6。
 
-> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 
 转载请保留原文链接.

@@ -605,5 +605,5 @@ lass MyConsumer<Integer> implements IntConsumer, Consumer<Integer> {
 - https://blog.csdn.net/lh513828570/article/details/56673804
 - http://movingon.cn/2017/05/03/jdk8-%E4%B8%80%E4%B8%AA%E9%A2%A0%E8%A6%86%E4%BA%86%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%A4%E7%9F%A5%E7%9A%84%E4%BE%8B%E5%AD%90/
 
-> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 
 转载请保留原文链接.

@@ -39,4 +39,4 @@ The url is built from the following pattern: <br>
 - https://www.chenhuijing.com/blog/revealjs-and-github-pages/
 - https://www.youtube.com/watch?v=DUXD2q0meSw&feature=youtu.be
 
-> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 转载请保留原文链接.

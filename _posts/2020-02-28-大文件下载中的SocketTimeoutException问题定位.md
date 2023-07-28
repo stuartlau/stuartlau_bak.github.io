@@ -156,5 +156,5 @@ MSS（Maximum Segment Size，1460Bytes=1500 - IP头(20) - TCP头(20)） 或者�
 - [系统调优你所不知道的TIME_WAIT和CLOSE_WAIT](https://zhuanlan.zhihu.com/p/40013724)
 - [Nginx与Tomcat性能调优，前后端KeepAlive不同步引发的问题](https://blog.csdn.net/nimasike/article/details/81129163)
 
-> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 
 转载请保留原文链接.

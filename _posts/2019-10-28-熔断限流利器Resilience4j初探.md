@@ -299,5 +299,5 @@ CircuitBreakerRegistry circuitBreakerRegistry = CircuitBreakerRegistry.ofDefault
 
 
 
-> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 
 转载请保留原文链接.

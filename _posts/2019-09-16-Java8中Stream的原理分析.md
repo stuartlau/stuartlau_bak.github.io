@@ -337,5 +337,5 @@ ForkJoinPool时将会变得不可预知并且暗藏危机。
 - https://juejin.im/post/5dc5a148f265da4d4f65c191
 - https://stackoverrun.com/cn/q/10341100
 
-> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 
 转载请保留原文链接.

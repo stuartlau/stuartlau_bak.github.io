@@ -56,4 +56,4 @@ Level就是直接跳过你的直属上级，跟他的上级进行交流，在国
 团队越来越大，项目越来越多，但很多工作和项目都缺乏足够详实的wiki，这样容易导致组内的技术财富和知识背景都不能很好的传承，导致新人和老人之间存在知识断层，反过来会影响SDE的工作，容易
 让其产生慌张感。
 
-> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,转载请保留原文链接.
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 转载请保留原文链接.

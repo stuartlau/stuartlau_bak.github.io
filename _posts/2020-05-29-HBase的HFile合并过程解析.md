@@ -107,5 +107,5 @@ Compaction对写请求也会有比较大的影响。主要体现在HFile比较�
 - [深入探讨LSM Compaction机制](https://zhuanlan.zhihu.com/p/141186118)
 - [深入理解 HBase Compaction 机制](https://uzshare.com/view/788152)
 
-> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 作者 [@stuartlau](http://github.com/stuartlau) ,
+> 本文首次发布于 [LiuShuo's Blog](https://liushuo.me), 
 转载请保留原文链接.
