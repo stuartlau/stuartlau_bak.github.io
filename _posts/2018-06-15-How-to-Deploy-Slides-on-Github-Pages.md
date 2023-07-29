@@ -3,7 +3,7 @@ layout:     post
 title:      How to Deploy Slides on Github Pages
 subtitle:   Use reveal.js to make magic happen 
 date:       2018-06-15
-author:     L.S
+author:     LiuShuo
 header-img: img/post-bg-desk.jpg
 catalog: true
 tags:

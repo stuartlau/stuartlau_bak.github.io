@@ -3,7 +3,7 @@ layout:     post
 title:      "Java中的Copy-On-Write"
 subtitle:   "Copy-On-Write in Java"
 date:       2019-11-16
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

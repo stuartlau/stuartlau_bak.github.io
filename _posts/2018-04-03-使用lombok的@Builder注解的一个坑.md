@@ -3,7 +3,7 @@ layout:     post
 title:      使用lombok的@Builder的注解的一个坑
 subtitle:   总有一个坑你要跳进去
 date:       2018-04-03
-author:     L.S
+author:     LiuShuo
 header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      "把Future扔进CompletableFuture的封装里"
 subtitle:   "CompletableFuture in Java"
 date:       2019-11-10
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      "从分页功能看Elasticsearch和MySQL的区别"
 subtitle:   "Pagination in Search"
 date:       2020-05-28
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

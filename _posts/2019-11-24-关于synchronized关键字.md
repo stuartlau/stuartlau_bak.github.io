@@ -3,7 +3,7 @@ layout:     post
 title:      "关于synchronized关键字"
 subtitle:   "synchronized in Java"
 date:       2019-11-24
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

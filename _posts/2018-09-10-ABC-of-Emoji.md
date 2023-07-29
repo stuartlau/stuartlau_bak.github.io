@@ -3,7 +3,7 @@ layout:     post
 title:      The ABC's of Emoji
 subtitle:   Unicode, character encoding, etc.
 date:       2018-09-10
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

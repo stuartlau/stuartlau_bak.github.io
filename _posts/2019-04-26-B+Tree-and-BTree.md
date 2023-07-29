@@ -3,7 +3,7 @@ layout:     post
 title:      "B+Tree和B-Tree"
 subtitle:   "B+Tree/B-Tree"
 date:       2019-04-26
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

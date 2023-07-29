@@ -3,7 +3,7 @@ layout:     post
 title:      "谈Spring中Bean的生命周期管理"
 subtitle:   "Bean Management in Spring"
 date:       2019-11-10
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

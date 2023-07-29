@@ -3,7 +3,7 @@ layout:     post
 title:      "LeetCode中Hash表相关算法题整理"
 subtitle:   "Hash Usage in LeetCode"
 date:       2019-10-03
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

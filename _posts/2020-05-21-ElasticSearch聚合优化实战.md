@@ -3,7 +3,7 @@ layout:     post
 title:      "ElasticSearch聚合实战"
 subtitle:   "Aggregation in ES"
 date:       2020-05-21
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      "ThreadLocal原理分析和注意事项"
 subtitle:   "Deep Dive into ThreadLocal"
 date:       2019-02-27
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

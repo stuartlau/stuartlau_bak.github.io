@@ -3,7 +3,7 @@ layout:     post
 title:      "SpringMVC项目迁移SpringBoot的问题梳理"
 subtitle:   "Migration SpringMVC Project to SpringBoot"
 date:       2020-02-21
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

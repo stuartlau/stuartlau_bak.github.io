@@ -3,7 +3,7 @@ layout:     post
 title:      "Fibonacci的优化思考"
 subtitle:   "Fibonacci Optimization"
 date:       2019-03-10
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

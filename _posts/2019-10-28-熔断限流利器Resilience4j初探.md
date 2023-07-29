@@ -3,7 +3,7 @@ layout:     post
 title:      "熔断限流利器Resilience4j初探"
 subtitle:   "Resilience4j Usage"
 date:       2019-10-28
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

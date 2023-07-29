@@ -3,7 +3,7 @@ layout:     post
 title:      "HBase的HFile合并过程解析"
 subtitle:   "HFile Compaction in HBase"
 date:       2020-05-29
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

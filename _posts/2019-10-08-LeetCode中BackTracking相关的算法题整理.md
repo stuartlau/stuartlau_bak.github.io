@@ -3,7 +3,7 @@ layout:     post
 title:      "LeetCode中BackTracking相关算法题整理"
 subtitle:   "BackTracking in LeetCode"
 date:       2019-10-08
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

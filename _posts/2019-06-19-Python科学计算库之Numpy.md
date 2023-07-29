@@ -3,7 +3,7 @@ layout:     post
 title:      "Python科学计算库之Numpy"
 subtitle:   "Numpy"
 date:       2019-06-19
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

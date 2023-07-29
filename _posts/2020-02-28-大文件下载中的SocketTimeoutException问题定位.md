@@ -3,7 +3,7 @@ layout:     post
 title:      "大文件下载中的SocketTimeoutException问题定位"
 subtitle:   "SocketTimeout When Downloading Big File"
 date:       2020-02-28
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

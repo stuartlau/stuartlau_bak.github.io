@@ -3,7 +3,7 @@ layout:     post
 title:      "Stream之Spliterator"
 subtitle:   "Spliterator in Stream"
 date:       2019-09-21
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

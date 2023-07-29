@@ -3,7 +3,7 @@ layout:     post
 title:      "改变HBase的Rowkey设计和scan脏数据问题"
 subtitle:   "Changing Rowkey in HBase is Not Easy"
 date:       2020-09-04
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

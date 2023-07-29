@@ -3,7 +3,7 @@ layout:     post
 title:      "理解Java中的Integer的实例化"
 subtitle:   "Initialization Integer in Java"
 date:       2019-11-10
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

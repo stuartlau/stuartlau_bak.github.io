@@ -3,7 +3,7 @@ layout:     post
 title:      "ElasticSearch工程实践中的总结"
 subtitle:   "ES in Action"
 date:       2020-09-02
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

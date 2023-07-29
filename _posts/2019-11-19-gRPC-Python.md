@@ -3,7 +3,7 @@ layout:     post
 title:      "如何使用Python访问gRPC服务"
 subtitle:   "How to use gRPC in Python"
 date:       2019-11-19
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

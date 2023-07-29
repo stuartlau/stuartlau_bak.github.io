@@ -4,7 +4,7 @@ title:      "企业模型集成EIP在实践中的应用——Spring Integration"
 subtitle:   "Slides: Spring Integration in Realtime Messaging"
 iframe:     "https://liushuo.me/spring_integration_in_realtime_messaging/"
 date:       2018-09-19
-author:     L.S
+author:     LiuShuo
 header-img: img/post-bg-debug.png
 catalog: true
 tags:

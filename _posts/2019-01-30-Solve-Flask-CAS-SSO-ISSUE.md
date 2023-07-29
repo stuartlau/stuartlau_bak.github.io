@@ -3,7 +3,7 @@ layout:     post
 title:      "解决Flask-CAS接入SSO的报KeyError问题"
 subtitle:   "Solve Flask-CAS Thrown KeyError Issue"
 date:       2019-01-30
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

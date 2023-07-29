@@ -3,7 +3,7 @@ layout:     post
 title:      Spring Integration in Realtime Messaging
 subtitle:   Spring Integration and its usage in realtime messaging system
 date:       2018-09-15
-author:     L.S
+author:     LiuShuo
 header-img: img/post-bg-spring-integration.png
 catalog: true
 tags:

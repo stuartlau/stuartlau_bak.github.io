@@ -3,7 +3,7 @@ layout:     post
 title:      "Java8中Stream原理分析"
 subtitle:   "Stream Summary in Java8"
 date:       2019-09-16
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

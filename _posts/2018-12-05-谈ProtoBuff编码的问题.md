@@ -3,7 +3,7 @@ layout:     post
 title:      "ProtoBuf3.0编码的深入分析"
 subtitle:   "Details about ProtoBuf3.0 Encoding"
 date:       2018-12-06
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

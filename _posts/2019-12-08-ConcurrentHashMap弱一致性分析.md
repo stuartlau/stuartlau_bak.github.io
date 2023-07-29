@@ -3,7 +3,7 @@ layout:     post
 title:      "ConcurrentHashMap的弱一致性分析"
 subtitle:   "ConcurrentHashMap's Weak Consistency"
 date:       2019-12-08
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      "Resources Access Protection Using Multiple Level Limiter"
 subtitle:   "How to control IP access rate limit with multiple limiter"
 date:       2018-09-23
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

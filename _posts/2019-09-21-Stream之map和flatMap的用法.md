@@ -3,7 +3,7 @@ layout:     post
 title:      "Stream中map和flatMap差异分析"
 subtitle:   "map versus flatMap in Stream"
 date:       2019-09-21
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

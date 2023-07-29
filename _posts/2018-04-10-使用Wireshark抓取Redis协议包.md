@@ -3,7 +3,7 @@ layout:     post
 title:      使用Wireshark抓取Redis协议包
 subtitle:   你得做一个合格的工程师
 date:       2018-04-10
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

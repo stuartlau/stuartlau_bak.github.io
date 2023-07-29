@@ -3,7 +3,7 @@ layout:     post
 title:      "Skip Level Talk in Amazon"
 subtitle:   "Skip Level Talk in Amazon"
 date:       2018-11-29
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags: 

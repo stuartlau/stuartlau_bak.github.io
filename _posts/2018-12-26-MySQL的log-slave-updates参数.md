@@ -3,7 +3,7 @@ layout:     post
 title:      MySQL的log-slave-updates参数
 subtitle:   MySQL with log-slave-updates 
 date:       2018-12-26
-author:     L.S
+author:     LiuShuo
 header-img: img/post-bg-desk.jpg
 catalog: true
 tags:

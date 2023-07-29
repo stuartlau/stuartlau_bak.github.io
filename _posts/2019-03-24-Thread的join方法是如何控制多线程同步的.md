@@ -3,7 +3,7 @@ layout:     post
 title:      "Thread的join()是如何控制多线程同步的"
 subtitle:   "join() in Class Thread with monitor lock"
 date:       2019-03-24
-author:     L.S
+author:     LiuShuo
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

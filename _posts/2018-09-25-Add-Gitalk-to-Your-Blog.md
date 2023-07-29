@@ -3,7 +3,7 @@ layout:     post
 title:      Add Gitalk to Your Blog
 subtitle:   Gitalk is a comment plugin supports Markdown based on GitHub Issue
 date:       2018-09-25
-author:     L.S
+author:     LiuShuo
 header-img: img/post-bg-github-cup.jpg
 catalog: true
 tags:
