@@ -37,7 +37,7 @@
 
     <ul>
         <li>
-            <a href="https://liushuo.me/archive/?tag=Patent">near 100 patents</a>
+            <a href="https://liu-shuo.notion.site/Patent-c952538ef1e44f1889121a7c173316a0">near 100 patents</a>
         </li>
     </ul>
 

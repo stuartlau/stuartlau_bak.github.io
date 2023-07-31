@@ -61,7 +61,7 @@
     <h5 id="patents">专利</h5>
 
         <li>
-            <a href="https://liushuo.me/archive/?tag=Patent">已授权近100项</a>
+            <a href="https://liu-shuo.notion.site/Patent-c952538ef1e44f1889121a7c173316a0">已授权近100项</a>
         </li>
     <hr>
 
