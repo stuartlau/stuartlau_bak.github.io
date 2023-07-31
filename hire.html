@@ -6,19 +6,17 @@ header-img: "img/snowboarding.jpg"
 multilingual: true
 ---
 
-<!--{% include multilingual-sel.html %}-->
-
 <!-- Chinese Version -->
 <div class="zh post-container">
     {% capture about_zh %}{% include hire/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
 </div>
 
-<!--&lt;!&ndash; English Version &ndash;&gt;-->
-<!--<div class="en post-container">-->
-<!--    {% capture about_en %}{% include about/en.md %}{% endcapture %}-->
-<!--    {{ about_en | markdownify }}-->
-<!--</div>-->
+<!-- English Version -->
+<div class="en post-container">
+    {% capture about_en %}{% include hire/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
 
 
 {% if site.disqus_username %}
