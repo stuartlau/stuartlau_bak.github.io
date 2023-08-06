@@ -30,6 +30,17 @@
                         </li>
                         {% endif %}
                         {% endfor %}
+
+                        {% if site.RSS %}
+                        <li>
+                            <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                              </span>
+                            </a>
+                        </li>
+                        {% endif %}
                         <li class="search-icon">
                             <a href="javascript:void(0)">
                                 <i class="fa fa-search"></i>
