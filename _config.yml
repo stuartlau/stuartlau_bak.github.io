@@ -119,4 +119,4 @@ page-mathjax: false
 #}
 #]
 
-enable_post_preview: false
+enable_post_preview: true
