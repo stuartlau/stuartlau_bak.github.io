@@ -118,3 +118,5 @@ page-mathjax: false
 #  href: "https://www.gatesnotes.com"
 #}
 #]
+
+enable_post_preview: false
