@@ -86,7 +86,7 @@ ga_domain: elsef.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Teach Lead&Architect@Kuaishou and we're HIRING⇧ Please mail: hi@liushuo.me"
+sidebar-about-description: "Please mail: hi@liushuo.me"
 sidebar-avatar: /img/wechat-qrcode.jpg # use absolute URL, seeing it's used in both `/` and   `/about/`
 
 
