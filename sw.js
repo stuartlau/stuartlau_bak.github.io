@@ -40,22 +40,22 @@ const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-r
 
 // The Util Function to hack URLs of intercepted requests
 const getCacheBustingUrl = (req) => {
-  var now = Date.now();
-  url = new URL(req.url)
+  // var now = Date.now();
+  // url = new URL(req.url)
 
   // 1. fixed http URL
   // Just keep syncing with location.protocol
   // fetch(httpURL) belongs to active mixed content.
   // And fetch(httpRequest) is not supported yet.
-  url.protocol = self.location.protocol
+  // url.protocol = self.location.protocol
 
   // 2. add query for caching-busting.
   // Github Pages served with Cache-Control: max-age=600
   // max-age on mutable content is error-prone, with SW life of bugs can even extend.
   // Until cache mode of Fetch API landed, we have to workaround cache-busting with query string.
   // Cache-Control-Bug: https://bugs.chromium.org/p/chromium/issues/detail?id=453190
-  url.search += (url.search ? '&' : '?') + 'cache-bust=' + now;
-  return url.href
+  // url.search += (url.search ? '&' : '?') + 'cache-bust=' + now;
+  return req.url
 }
 
 // The Util Function to detect and polyfill req.mode="navigate"
